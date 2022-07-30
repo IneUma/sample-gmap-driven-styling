@@ -1,0 +1,8 @@
+{
+  "short_name": "GMap Sample App",
+  "name": "Google map sample",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
